@@ -186,3 +186,14 @@ address {
     text-transform: uppercase;
     color: #f4f4fd;
 }
+
+.portfolio-title {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.11111;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+    text-align: center;
+    text-transform: capitalize;
+}
