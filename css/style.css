@@ -62,11 +62,8 @@ address {
     color: #2e2f42;
 }
 
-.header-link:hover {
-    color: #404bbf;
-}
-
-.header-link:active {
+.header-link:hover,
+.header-link:focus {
     color: #404bbf;
 }
 
