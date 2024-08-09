@@ -80,9 +80,7 @@ address {
 }
 
 .main-button {
-    border-radius: 4px;
     font-weight: 500;
-    border-color: #4d5ae5;
     background: #4d5ae5;
     line-height: 1.5;
     letter-spacing: 0.04em;
@@ -91,7 +89,6 @@ address {
 
 .main-button:hover,
 .main-button:focus {
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     background-color: #404BBF
 }
 
